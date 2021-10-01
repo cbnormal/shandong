@@ -1,0 +1,7 @@
+<!--pages/quancheng/quancheng.wxml-->
+<view class="box">
+  <view class="title">泉城</view>
+  <view>济南作为泉城，旅游资源丰富，是国家历史文化名城、中国优秀旅游城市、山东旅游“一山一水一圣人”中的重要组成部分，每年吸引着众多的国内外游客。</view>
+  <view>有四大泉群：趵突泉、黑虎泉、珍珠泉、五龙潭</view>
+</view>
+<image src="/pages/images/s.png"></image>
